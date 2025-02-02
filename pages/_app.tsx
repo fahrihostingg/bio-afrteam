@@ -51,13 +51,13 @@ function MyApp({ Component, pageProps }: AppProps) {
         defaultTitle="AFR Team | Dev Bot"
         description="Hei! Saya AFR Team , saya suka meneroka semua yang berkaitan dengan teknologi. Selain itu, saya amat meminati dunia teknologi terutamanya bot wa dalam dunia maya!"
         openGraph={{
-          url: "https://hi-lrmn.is-a.dev/",
+          url: "https://bio.afrteam.web.id/",
           title: "AFR Team | tetaplah semangat walaupun sering direndahkan",
           description:
             "Hei! Saya AFR Team , saya suka meneroka semua yang berkaitan dengan teknologi. Selain itu, saya amat meminati dunia teknologi terutamanya bot wa dalam dunia maya!",
           images: [
             {
-              url: "https://hi-lrmn.is-a.dev/og-image.png",
+              url: "https://bio.afrteam.web.id/og-image.png",
               alt: "AFR Team  | tetaplah semangat walaupun sering direndahkan",
             },
           ],
